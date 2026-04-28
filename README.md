@@ -9,3 +9,7 @@ Predicting house prices using the Ames Housing Dataset from Kaggle.
 
 ## Libraries Used
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+## Dataset
+Download the dataset from Kaggle:
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
